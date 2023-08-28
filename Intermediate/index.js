@@ -349,7 +349,7 @@
 
 
 
-//switch statements
+//switch statements -> switch staement is a control flow statement that is used to select one of the many colde blocks for execcution
 
 // let day = new Date().getDay();
 
